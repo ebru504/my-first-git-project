@@ -45,9 +45,7 @@ STEP 3: PUSH THE FIRST CODE TO GUTHUB
                 ***********************************************
                 HOW TO PULL THE CODE FROM GITHUB TO LOCAL COMPUTER
                 *Create a new file : test_file.txt
-                *Add some comments :
-                Do not delete this file.
-                This file is Ms. Filiz's code
+                *Add some comments : "Do not delete this file."
                 *Commit new file
                 ***Now we created a file in github
                 We will get that code from github to intelliJ.
