@@ -9,6 +9,7 @@ public class secondClass {
         System.out.println("enter int");
         int i = scan.nextInt();
         System.out.println("yor int is " + i);
+        System.out.println("hello");
 
 
 
