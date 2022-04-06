@@ -67,3 +67,11 @@ STEP 3: PUSH THE FIRST CODE TO GUTHUB
                     if you add Class.java in .gitignore, then that file cannot be pushed to git
 
 
+                    if there's an error;
+                    pull before push !!!!!!!!!!!
+                    update to the latest version
+
+
+
+
+
