@@ -55,4 +55,15 @@ STEP 3: PUSH THE FIRST CODE TO GUTHUB
                     ======================
                     USEFUL COMMANDS:
                     *git status
+                    *git reset
+                    *git fetch
+                     git merge
+                    *git pull => git fetch + git merge
+
+
+                    How to ignore a file? ---(search, confirmation)
+                    .gitignore
+                    we add the path of classes that we want to ignore
+                    if you add Class.java in .gitignore, then that file cannot be pushed to git
+
 
